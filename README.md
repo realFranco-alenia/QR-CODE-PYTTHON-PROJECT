@@ -44,3 +44,6 @@ cd Qr-code
 
 python main.py
 ```
+
+[May 10th, 2024] Introduce a new line to test the configuration of many GitHub user accounts on the same host.
+
